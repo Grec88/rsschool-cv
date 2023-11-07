@@ -1,5 +1,7 @@
 # Aleksey Likhtinov
 
+![The picture of me](https://res.cloudinary.com/dyvmnrk8q/image/upload/v1699368001/91214571_avyeug.jpg)
+
 ## Contact information 
 
 - telegram: @grec883
